@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: teal;
+}
+
+h2 {
+    color: blue;
+}
+
+h3.tabla-titulo {
+    color: blue;
+    text-align: center;
+}
+
+.rojo {
+    color: red;
+}
+
+.naranja {
+    color: orange;
+}
+
+.azul {
+    color: blue;
+}
+
+.rosa {
+    color: magenta;
+}
+
+.verde {
+    color: green;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
